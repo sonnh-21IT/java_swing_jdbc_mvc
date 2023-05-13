@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/controller/EventAccess.java=UTF-8
+encoding//src/controller/EventChagneView.java=UTF-8
+encoding//src/controller/EventSignup.java=UTF-8
+encoding//src/controller/EventViewAdmin.java=UTF-8
+encoding//src/controller/EventViewInfo.java=UTF-8
+encoding//src/controller/EventViewManager.java=UTF-8
+encoding//src/model/ConnDB.java=UTF-8
+encoding//src/model/TopicDAO.java=UTF-8
+encoding//src/view/ViewAccess.java=UTF-8
+encoding//src/view/ViewAdmin.java=UTF-8
+encoding//src/view/ViewGenerality.java=UTF-8
+encoding//src/view/ViewHome.java=UTF-8
+encoding//src/view/ViewInfo.java=UTF-8
+encoding//src/view/ViewMain.java=UTF-8
+encoding//src/view/ViewManager.java=UTF-8
+encoding//src/view/ViewSignup.java=UTF-8
